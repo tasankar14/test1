@@ -1,0 +1,1 @@
+print("Sathya Sai baba")
